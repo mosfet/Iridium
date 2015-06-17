@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# stupid stupid stupid eagle temp files
+
+.b#*
+.s#*
