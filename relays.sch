@@ -4361,7 +4361,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <parts>
 <part name="OK1" library="optocoupler" deviceset="MOC30*" device="S" technology="31" value="MOC3020"/>
 <part name="U$1" library="SparkFun-Electromechanical" deviceset="RELAY" device="PTH"/>
-<part name="OK3" library="optocoupler" deviceset="H11A*?M" device="S" technology="1" value="MOC3020"/>
+<part name="OK3" library="optocoupler" deviceset="H11A*?M" device="S" technology="1" value="H11AA1"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k"/>
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
